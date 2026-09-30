@@ -1,0 +1,17 @@
+builds/
+logs/
+exceptions/
+data/hiscore.txt
+
+# unused DragonRuby template samples
+sprites/misc/
+sprites/tile/
+sprites/square/
+sprites/circle/
+sprites/t-pose/
+sprites/isometric/
+sprites/hexagon/
+sprites/triangle/
+
+# D3D Pro C extension (paid, not distributed with this game)
+native/
