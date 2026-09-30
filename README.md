@@ -163,3 +163,9 @@ Difficulty is mostly set by enemy agility (`spawn_enemy` in
   MIT licensed (see its repository).
 - Built with [DragonRuby Game Toolkit](https://dragonruby.org/). Its license
   terms are in `open-source-licenses.txt`.
+
+## License
+
+Sky Aces 1917 is released under the [MIT License](LICENSE). The vendored d3d
+engine in `app/d3d/` is MIT licensed as well. DragonRuby Game Toolkit itself is
+not part of this license; see `open-source-licenses.txt` for its terms.
